@@ -12,7 +12,6 @@ body{
 ul{
     display: flex;
     justify-content:space-evenly;
-
 }
 
 /* targeting anchor tags using the anchor element selector*/
